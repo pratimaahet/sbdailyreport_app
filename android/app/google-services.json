@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "319846761591",
+    "project_id": "sb-daily-report-app",
+    "storage_bucket": "sb-daily-report-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319846761591:android:807b53a6d513a392963272",
+        "android_client_info": {
+          "package_name": "com.example.sbdailyreport_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319846761591-6qkp23hqgei677pcs29thsjtn3veuclo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZg1xfDz0OO-tC8a5aBtP7qO3qGSerFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319846761591-6qkp23hqgei677pcs29thsjtn3veuclo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319846761591-i5ibe2jq3lug0bll2onmk0tn3ct2oos3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sbdailyreportApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
